@@ -1,0 +1,3 @@
+## QoS (Quality of Service)
+QoS polega m.in. na nadawaniu odpowiednich priorytetów poszczególnym pakietom, które są przesyłane z miejsca źródłowego do miejsca docelowego. Oznacza to, że jeśli taka usługa jest zaimplementowana na routerze, dane
+przesyłane do routera będą przez niego przetwarzane w kolejności ustalonej podczas konfiguracji QoS. Jeżeli zatem na przykład dane audio będą mieć wyższy priorytet niż zwykłe dane, to najpierw będą przetwarzane dane audio.
