@@ -1,0 +1,3 @@
+# Warstwa seji
+Odpowiedzialna za tworzenie sesji pomiędzy komputerami pracującymi w sieci oraz za zarządzanie sesją, jeśli zostanie już nawiązana. 
+Warstwa sesji — poprzez wykorzystanie odpowiednich protokołów — udostępnia dwa rodzaje komunikacji: połączeniową i bezpołączeniową. W warstwie sesji występuje pewnego rodzaju ochrona przed koniecznością ponownej transmisji danych, polegająca na umieszczeniu w tworzonym segmencie punktów kontrolnych. Kiedy dochodzi do utraty sesji, dane nie muszą być transmitowane od początku, ale od miejsca, w którym połączenie zostało zerwane.
