@@ -2,7 +2,7 @@
 Model OSI składa się z siedmiu warstw. Każda z nich reprezentuje jedną część całego procesu przesyłania
 danych w sieci. Wyróżniamy następujące warstwy:
 1. [aplikacji (warstwa 7.)](https://github.com/objectprogr/CCNA_200-301/blob/main/Model_OSI/warstwa_7_aplikacji.md);
-2. [prezentacji (warstwa 6.)]();
+2. [prezentacji (warstwa 6.)](https://github.com/objectprogr/CCNA_200-301/blob/main/Model_OSI/warstwa_6_prezentacji.md);
 3. [sesji (warstwa 5.)]();
 4. [transportu (warstwa 4.)]();
 5. [sieci (warstwa 3.)]();
